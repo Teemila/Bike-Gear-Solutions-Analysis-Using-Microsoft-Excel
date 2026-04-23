@@ -28,6 +28,9 @@ To address these challenges, a detailed analysis workflow using **Microsoft Exce
 
 The ultimate output of this analysis is an **interactive dashboard** developed in Microsoft Excel, featuring dynamic Key Performance Indicators (KPIs), charts, and slicers to enable quick executive analysis and facilitate data-driven strategies.
 
+<img width="1865" height="833" alt="Screenshot 2026-04-10 070828" src="https://github.com/user-attachments/assets/31fe56cf-113a-4e76-8340-306474a517d1" />
+
+
 ## Detailed Analysis Write-up
 
 The following analysis is based on the findings from the interactive dashboard, which integrates dynamic KPIs and charts for a comprehensive view of performance.
